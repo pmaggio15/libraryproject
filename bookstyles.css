@@ -121,13 +121,13 @@ button:active {
   background-color: transparent;
   font-size: 40px;
   border: none;
-  color: #7342d6;
+  color: #083114;
   display: none;
 }
 
 .menu__backdrop {
   position: absolute;
-  background-color: #242424;
+  background-color: #D2B48C;
   top: 0;
   left: 0;
   right: 0;
